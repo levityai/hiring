@@ -6,8 +6,8 @@ We believe that artificial intelligence provides huge opportunities for all diff
 
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | --------------- |
-| Berlin, Germany | Engineering  | 1        | [BE Engineer](https://colabel.com/en/roles/backend-engineer) |
-| Berlin, Germany | Engineering  | 1        | [FE Engineer](https://colabel.com/en/roles/frontend-developer) |
-| Berlin, Germany | Engineering  | 1        | [ML Engineer](https://colabel.com/en/roles/machine-learning-engineer) |
+| Berlin, Germany | Engineering  | 1        | [Backend Engineer](https://colabel.com/en/roles/backend-engineer) |
+| Berlin, Germany | Engineering  | 1        | [Frontend Engineer](https://colabel.com/en/roles/frontend-developer) |
+| Berlin, Germany | Engineering  | 1        | [Machine Learning Engineer](https://colabel.com/en/roles/machine-learning-engineer) |
 | Berlin, Germany | Product  | 1        | [Product Manager](https://colabel.com/en/roles/product-manager) |
 | Berlin, Germany | Design  | 1        | [UI/UX Designer](https://colabel.com/en/roles/ui-ux-designer) |
